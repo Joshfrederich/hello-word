@@ -1,2 +1,4 @@
 # hello-word
-Testing
+
+name= input(masukkan nama anda: ")
+print("hello word " + name + "!")
